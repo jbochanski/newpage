@@ -57,10 +57,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://lss.fnal.gov/archive/thesis/2000/fermilab-thesis-2006-66.pdf'
-  - area: B.S. Astronomy & Astrophysis
+  - area: B.S. Astronomy & Astrophysics
     institution: Villanova University
-    #date_start: 1998
-    #date_end: 2002
+    date_start: 1998
+    date_end: 2002
     
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
