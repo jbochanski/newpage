@@ -51,16 +51,16 @@ interests:
 education:
   - area: Ph.D. Astronomy
     institution: University of Washington
-    date_start: 2002
-    date_end: 2008
+    date_start: 2002-09-01
+    date_end: 2008-08-01
     summary: "Thesis - M Dwarfs in the Local Milky Way: the Field Low-Mass Stellar Luminosity and Mass Functions. Supervised by [Dr. Suzanne Hawley](https://astro.washington.edu/people/suzanne-hawley)." 
     button:
       text: 'Read Thesis'
       url: 'https://lss.fnal.gov/archive/thesis/2000/fermilab-thesis-2006-66.pdf'
   - area: B.S. Astronomy & Astrophysics
     institution: Villanova University
-    date_start: 1998
-    date_end: 2002
+    date_start: 1998-09-01
+    date_end: 2002-05-01
     
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
