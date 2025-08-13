@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:jbochanski@rider.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/jbocha
+    url: https://github.com/jbochanski
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/johnbochanski/
   - icon: academicons/google-scholar
