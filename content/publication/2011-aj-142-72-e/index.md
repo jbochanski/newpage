@@ -1,0 +1,220 @@
+---
+title: 'SDSS-III: Massive Spectroscopic Surveys of the Distant Universe, the Milky
+  Way, and Extra-Solar Planetary Systems'
+authors:
+- Daniel J. Eisenstein
+- David H. Weinberg
+- Eric Agol
+- Hiroaki Aihara
+- Carlos Allende Prieto
+- Scott F. Anderson
+- James A. Arns
+- Éric Aubourg
+- Stephen Bailey
+- Eduardo Balbinot
+- Robert Barkhouser
+- Timothy C. Beers
+- Andreas A. Berlind
+- Steven J. Bickerton
+- Dmitry Bizyaev
+- Michael R. Blanton
+- John J. Bochanski
+- Adam S. Bolton
+- Casey T. Bosman
+- Jo Bovy
+- W.~N. Brandt
+- Ben Breslauer
+- Howard J. Brewington
+- J. Brinkmann
+- Peter J. Brown
+- Joel R. Brownstein
+- Dan Burger
+- Nicolas G. Busca
+- Heather Campbell
+- Phillip A. Cargile
+- William C. Carithers
+- Joleen K. Carlberg
+- Michael A. Carr
+- Liang Chang
+- Yanmei Chen
+- Cristina Chiappini
+- Johan Comparat
+- Natalia Connolly
+- Marina Cortes
+- Rupert A.~C. Croft
+- Katia Cunha
+- Luiz N. da Costa
+- James R.~A. Davenport
+- Kyle Dawson
+- Nathan De Lee
+- Gustavo F. Porto de Mello
+- Fernando de Simoni
+- Janice Dean
+- Saurav Dhital
+- Anne Ealet
+- Garrett L. Ebelke
+- Edward M. Edmondson
+- Jacob M. Eiting
+- Stephanie Escoffier
+- Massimiliano Esposito
+- Michael L. Evans
+- Xiaohui Fan
+- Bruno Femenı́a Castellá
+- Leticia Dutra Ferreira
+- Greg Fitzgerald
+- Scott W. Fleming
+- Andreu Font-Ribera
+- Eric B. Ford
+- Peter M. Frinchaboy
+- Ana Elia Garc\á Pérez
+- B. Scott Gaudi
+- Jian Ge
+- Luan Ghezzi
+- Bruce A. Gillespie
+- G. Gilmore
+- Léo Girardi
+- J. Richard Gott
+- Andrew Gould
+- Eva K. Grebel
+- James E. Gunn
+- Jean-Christophe Hamilton
+- Paul Harding
+- David W. Harris
+- Suzanne L. Hawley
+- Frederick R. Hearty
+- Joseph F. Hennawi
+- Jonay I. González Hernández
+- Shirley Ho
+- David W. Hogg
+- Jon A. Holtzman
+- Klaus Honscheid
+- Naohisa Inada
+- Inese I. Ivans
+- Linhua Jiang
+- Peng Jiang
+- Jennifer A. Johnson
+- Cathy Jordan
+- Wendell P. Jordan
+- Guinevere Kauffmann
+- Eyal Kazin
+- David Kirkby
+- Mark A. Klaene
+- G.~R. Knapp
+- Jean-Paul Kneib
+- C.~S. Kochanek
+- Lars Koesterke
+- Juna A. Kollmeier
+- Richard G. Kron
+- Hubert Lampeitl
+- Dustin Lang
+- James E. Lawler
+- Jean-Marc Le Goff
+- Brian L. Lee
+- Young Sun Lee
+- Jarron M. Leisenring
+- Yen-Ting Lin
+- Jian Liu
+- Daniel C. Long
+- Craig P. Loomis
+- Sara Lucatello
+- Britt Lundgren
+- Robert H. Lupton
+- Bo Ma
+- Zhibo Ma
+- Nicholas MacDonald
+- Claude Mack
+- Suvrath Mahadevan
+- Marcio A.~G. Maia
+- Steven R. Majewski
+- Martin Makler
+- Elena Malanushenko
+- Viktor Malanushenko
+- Rachel Mandelbaum
+- Claudia Maraston
+- Daniel Margala
+- Paul Maseman
+- Karen L. Masters
+- Cameron K. McBride
+- Patrick McDonald
+- Ian D. McGreer
+- Richard G. McMahon
+- Olga Mena Requejo
+- Brice Ménard
+- Jordi Miralda-Escudé
+- Heather L. Morrison
+- Fergal Mullally
+- Demitri Muna
+- Hitoshi Murayama
+- Adam D. Myers
+- Tracy Naugle
+- Angelo Fausti Neto
+- Duy Cuong Nguyen
+- Robert C. Nichol
+- David L. Nidever
+- Robert W. O'Connell
+- Ricardo L.~C. Ogando
+- Matthew D. Olmstead
+- Daniel J. Oravetz
+- Nikhil Padmanabhan
+- Martin Paegert
+- Nathalie Palanque-Delabrouille
+- Kaike Pan
+- Parul Pandey
+- John K. Parejko
+- Isabelle Pâris
+- Paulo Pellegrini
+- Joshua Pepper
+- Will J. Percival
+- Patrick Petitjean
+- Robert Pfaffenberger
+- Janine Pforr
+- Stefanie Phleps
+- Christophe Pichon
+- Matthew M. Pieri
+- Francisco Prada
+- Adrian M. Price-Whelan
+- M. Jordan Raddick
+- Beatriz H.~F. Ramos
+- I. Neill Reid
+- Celine Reyle
+- James Rich
+- Gordon T. Richards
+- George H. Rieke
+- Marcia J. Rieke
+- Hans-Walter Rix
+- Annie C. Robin
+- Helio J. Rocha-Pinto
+- Constance M. Rockosi
+- Natalie A. Roe
+- Emmanuel Rollinde
+- Ashley J. Ross
+- Nicholas P. Ross
+- Bruno Rossetto
+- Ariel G. Sánchez
+- Basilio Santiago
+- Conor Sayres
+- Ricardo Schiavon
+- David J. Schlegel
+- Katharine J. Schlesinger
+- Sarah J. Schmidt
+- Donald P. Schneider
+- Kris Sellgren
+- Alaina Shelden
+- Erin Sheldon
+- Matthew Shetrone
+date: '2011-09-01'
+publishDate: '2025-08-13T13:45:22.557598Z'
+publication_types:
+- article-journal
+publication: '*aj*'
+doi: 10.1088/0004-6256/142/3/72
+tags:
+- 'cosmology: observations'
+- 'Galaxy: evolution'
+- 'planets and satellites: detection'
+- surveys
+- Astrophysics - Instrumentation and Methods for Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1101.1529
+---

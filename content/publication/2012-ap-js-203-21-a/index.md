@@ -1,0 +1,219 @@
+---
+title: 'The Ninth Data Release of the Sloan Digital Sky Survey: First Spectroscopic
+  Data from the SDSS-III Baryon Oscillation Spectroscopic Survey'
+authors:
+- Christopher P. Ahn
+- Rachael Alexandroff
+- Carlos Allende Prieto
+- Scott F. Anderson
+- Timothy Anderton
+- Brett H. Andrews
+- Éric Aubourg
+- Stephen Bailey
+- Eduardo Balbinot
+- Rory Barnes
+- Julian Bautista
+- Timothy C. Beers
+- Alessandra Beifiori
+- Andreas A. Berlind
+- Vaishali Bhardwaj
+- Dmitry Bizyaev
+- Cullen H. Blake
+- Michael R. Blanton
+- Michael Blomqvist
+- John J. Bochanski
+- Adam S. Bolton
+- Arnaud Borde
+- Jo Bovy
+- W.~N. Brandt
+- J. Brinkmann
+- Peter J. Brown
+- Joel R. Brownstein
+- Kevin Bundy
+- N.~G. Busca
+- William Carithers
+- Aurelio R. Carnero
+- Michael A. Carr
+- Dana I. Casetti-Dinescu
+- Yanmei Chen
+- Cristina Chiappini
+- Johan Comparat
+- Natalia Connolly
+- Justin R. Crepp
+- Stefano Cristiani
+- Rupert A.~C. Croft
+- Antonio J. Cuesta
+- Luiz N. da Costa
+- James R.~A. Davenport
+- Kyle S. Dawson
+- Roland de Putter
+- Nathan De Lee
+- Timothée Delubac
+- Saurav Dhital
+- Anne Ealet
+- Garrett L. Ebelke
+- Edward M. Edmondson
+- Daniel J. Eisenstein
+- S. Escoffier
+- Massimiliano Esposito
+- Michael L. Evans
+- Xiaohui Fan
+- Bruno Femenı́a Castellá
+- Emma Fernández Alvar
+- Leticia D. Ferreira
+- N. Filiz Ak
+- Hayley Finley
+- Scott W. Fleming
+- Andreu Font-Ribera
+- Peter M. Frinchaboy
+- D.~A. Garc\á-Hernández
+- A.~E. Garc\' ́Pérez
+- Jian Ge
+- R. Génova-Santos
+- Bruce A. Gillespie
+- Léo Girardi
+- Jonay I. González Hernández
+- Eva K. Grebel
+- James E. Gunn
+- Hong Guo
+- Daryl Haggard
+- Jean-Christophe Hamilton
+- David W. Harris
+- Suzanne L. Hawley
+- Frederick R. Hearty
+- Shirley Ho
+- David W. Hogg
+- Jon A. Holtzman
+- Klaus Honscheid
+- J. Huehnerhoff
+- Inese I. Ivans
+- " Ivezi\\'cŽ́eljko"
+- Heather R. Jacobson
+- Linhua Jiang
+- Jonas Johansson
+- Jennifer A. Johnson
+- Guinevere Kauffmann
+- David Kirkby
+- Jessica A. Kirkpatrick
+- Mark A. Klaene
+- Gillian R. Knapp
+- Jean-Paul Kneib
+- Jean-Marc Le Goff
+- Alexie Leauthaud
+- Khee-Gan Lee
+- Young Sun Lee
+- Daniel C. Long
+- Craig P. Loomis
+- Sara Lucatello
+- Britt Lundgren
+- Robert H. Lupton
+- Bo Ma
+- Zhibo Ma
+- Nicholas MacDonald
+- Claude E. Mack
+- Suvrath Mahadevan
+- Marcio A.~G. Maia
+- Steven R. Majewski
+- Martin Makler
+- Elena Malanushenko
+- Viktor Malanushenko
+- A. Manchado
+- Rachel Mandelbaum
+- Marc Manera
+- Claudia Maraston
+- Daniel Margala
+- Sarah L. Martell
+- Cameron K. McBride
+- Ian D. McGreer
+- Richard G. McMahon
+- Brice Ménard
+- Sz. Meszaros
+- Jordi Miralda-Escudé
+- Antonio D. Montero-Dorta
+- Francesco Montesano
+- Heather L. Morrison
+- Demitri Muna
+- Jeffrey A. Munn
+- Hitoshi Murayama
+- Adam D. Myers
+- A.~F. Neto
+- Duy Cuong Nguyen
+- Robert C. Nichol
+- David L. Nidever
+- Pasquier Noterdaeme
+- Sebastián E. Nuza
+- Ricardo L.~C. Ogando
+- Matthew D. Olmstead
+- Daniel J. Oravetz
+- Russell Owen
+- Nikhil Padmanabhan
+- Nathalie Palanque-Delabrouille
+- Kaike Pan
+- John K. Parejko
+- Prachi Parihar
+- Isabelle Pâris
+- Petchara Pattarakijwanich
+- Joshua Pepper
+- Will J. Percival
+- Ismael Pérez-Fournon
+- Ignasi Pérez-Ràfols
+- Patrick Petitjean
+- Janine Pforr
+- Matthew M. Pieri
+- Marc H. Pinsonneault
+- G.~F. Porto de Mello
+- Francisco Prada
+- Adrian M. Price-Whelan
+- M. Jordan Raddick
+- Rafael Rebolo
+- James Rich
+- Gordon T. Richards
+- Annie C. Robin
+- Helio J. Rocha-Pinto
+- Constance M. Rockosi
+- Natalie A. Roe
+- Ashley J. Ross
+- Nicholas P. Ross
+- Graziano Rossi
+- J.~A. Rubiño-Martin
+- Lado Samushia
+- J. Sanchez Almeida
+- Ariel G. Sánchez
+- Bas\'ıl ́and Sayres, Conor Santiago
+- David J. Schlegel
+- Katharine J. Schlesinger
+- Sarah J. Schmidt
+- Donald P. Schneider
+- Mathias Schultheis
+- Axel D. Schwope
+- C.~G. Scóccola
+- Uros Seljak
+- Erin Sheldon
+- Yue Shen
+- Yiping Shu
+- Jennifer Simmerer
+- Audrey E. Simmons
+- Ramin A. Skibba
+- M.~F. Skrutskie
+- A. Slosar
+- Flavia Sobreira
+- Jennifer S. Sobeck
+- Keivan G. Stassun
+- Oliver Steele
+- Matthias Steinmetz
+date: '2012-12-01'
+publishDate: '2025-08-13T13:45:22.385131Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.1088/0067-0049/203/2/21
+tags:
+- atlases
+- catalogs
+- surveys
+- Astrophysics - Instrumentation and Methods for Astrophysics
+- Astrophysics - Cosmology and Nongalactic Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1207.7137
+---

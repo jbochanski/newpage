@@ -1,0 +1,172 @@
+---
+title: The Third Data Release of the Sloan Digital Sky Survey
+authors:
+- Kevork Abazajian
+- Jennifer K. Adelman-McCarthy
+- Marcel A. Agüeros
+- Sahar S. Allam
+- Kurt S.~J. Anderson
+- Scott F. Anderson
+- James Annis
+- Neta A. Bahcall
+- Ivan K. Baldry
+- Steven Bastian
+- Andreas Berlind
+- Mariangela Bernardi
+- Michael R. Blanton
+- Jr., John J. Bochanski
+- William N. Boroski
+- Howard J. Brewington
+- John W. Briggs
+- J. Brinkmann
+- Robert J. Brunner
+- Tamás Budavári
+- Larry N. Carey
+- Francisco J. Castander
+- A.~J. Connolly
+- Kevin R. Covey
+- István Csabai
+- Julianne J. Dalcanton
+- Mamoru Doi
+- Feng Dong
+- Daniel J. Eisenstein
+- Michael L. Evans
+- Xiaohui Fan
+- Douglas P. Finkbeiner
+- Scott D. Friedman
+- Joshua A. Frieman
+- Masataka Fukugita
+- Bruce Gillespie
+- Karl Glazebrook
+- Jim Gray
+- Eva K. Grebel
+- James E. Gunn
+- Vijay K. Gurbani
+- Patrick B. Hall
+- Masaru Hamabe
+- Daniel Harbeck
+- Frederick H. Harris
+- Hugh C. Harris
+- Michael Harvanek
+- Suzanne L. Hawley
+- Jeffrey Hayes
+- Timothy M. Heckman
+- John S. Hendry
+- Gregory S. Hennessy
+- Robert B. Hindsley
+- Craig J. Hogan
+- David W. Hogg
+- Donald J. Holmgren
+- Jon A. Holtzman
+- Shin-ichi Ichikawa
+- Takashi Ichikawa
+- Željko Ivezić
+- Sebastian Jester
+- David E. Johnston
+- Anders M. Jorgensen
+- ́ Mario Juri\
+- Stephen M. Kent
+- S.~J. Kleinman
+- G.~R. Knapp
+- Alexei Yu. Kniazev
+- Richard G. Kron
+- Jurek Krzesinski
+- Donald Q. Lamb
+- Hubert Lampeitl
+- Brian C. Lee
+- Huan Lin
+- Daniel C. Long
+- Jon Loveday
+- Robert H. Lupton
+- Ed Mannery
+- Bruce Margon
+- David Mart\'éz-Delgado
+- Takahiko Matsubara
+- Peregrine M. McGehee
+- Timothy A. McKay
+- Avery Meiksin
+- Brice Ménard
+- Jeffrey A. Munn
+- Thomas Nash
+- Jr., Eric H. Neilsen
+- Heidi Jo Newberg
+- Peter R. Newman
+- Robert C. Nichol
+- Tom Nicinski
+- Maria Nieto-Santisteban
+- Atsuko Nitta
+- Sadanori Okamura
+- William O'Mullane
+- Russell Owen
+- Nikhil Padmanabhan
+- George Pauls
+- John Peoples
+- Jeffrey R. Pier
+- Adrian C. Pope
+- Dimitri Pourbaix
+- Thomas R. Quinn
+- M. Jordan Raddick
+- Gordon T. Richards
+- Michael W. Richmond
+- Hans-Walter Rix
+- Constance M. Rockosi
+- David J. Schlegel
+- Donald P. Schneider
+- Joshua Schroeder
+- Ryan Scranton
+- Maki Sekiguchi
+- Erin Sheldon
+- Kazu Shimasaku
+- Nicole M. Silvestri
+- J. Allyn Smith
+- " Smolči\\'cV́ernesa"
+- Stephanie A. Snedden
+- Albert Stebbins
+- Chris Stoughton
+- Michael A. Strauss
+- Mark SubbaRao
+- Alexander S. Szalay
+- István Szapudi
+- Paula Szkody
+- Gyula P. Szokoly
+- Max Tegmark
+- Luis Teodoro
+- Aniruddha R. Thakar
+- Christy Tremonti
+- Douglas L. Tucker
+- Alan Uomoto
+- Daniel E. Vanden Berk
+- Jan Vandenberg
+- Michael S. Vogeley
+- Wolfgang Voges
+- Nicole P. Vogt
+- Lucianne M. Walkowicz
+- Shu-i. Wang
+- David H. Weinberg
+- Andrew A. West
+- Simon D.~M. White
+- Brian C. Wilhite
+- Yongzhong Xu
+- Brian Yanny
+- Naoki Yasuda
+- Ching-Wa Yip
+- D.~R. Yocum
+- Donald G. York
+- Idit Zehavi
+- Stefano Zibetti
+- Daniel B. Zucker
+date: '2005-03-01'
+publishDate: '2025-08-13T13:45:23.246360Z'
+publication_types:
+- article-journal
+publication: '*aj*'
+doi: 10.1086/427544
+tags:
+- Atlases
+- Catalogs
+- Surveys
+- Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/astro-ph/0410239
+---

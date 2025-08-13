@@ -1,0 +1,218 @@
+---
+title: The Seventh Data Release of the Sloan Digital Sky Survey
+authors:
+- Kevork N. Abazajian
+- Jennifer K. Adelman-McCarthy
+- Marcel A. Agüeros
+- Sahar S. Allam
+- Carlos Allende Prieto
+- Deokkeun An
+- Kurt S.~J. Anderson
+- Scott F. Anderson
+- James Annis
+- Neta A. Bahcall
+- C.~A.~L. Bailer-Jones
+- J.~C. Barentine
+- Bruce A. Bassett
+- Andrew C. Becker
+- Timothy C. Beers
+- Eric F. Bell
+- Vasily Belokurov
+- Andreas A. Berlind
+- Eileen F. Berman
+- Mariangela Bernardi
+- Steven J. Bickerton
+- Dmitry Bizyaev
+- John P. Blakeslee
+- Michael R. Blanton
+- John J. Bochanski
+- William N. Boroski
+- Howard J. Brewington
+- Jarle Brinchmann
+- J. Brinkmann
+- Robert J. Brunner
+- Tamás Budavári
+- Larry N. Carey
+- Samuel Carliles
+- Michael A. Carr
+- Francisco J. Castander
+- David Cinabro
+- A.~J. Connolly
+- István Csabai
+- Carlos E. Cunha
+- Paul C. Czarapata
+- James R.~A. Davenport
+- Ernst de Haas
+- Ben Dilday
+- Mamoru Doi
+- Daniel J. Eisenstein
+- Michael L. Evans
+- N.~W. Evans
+- Xiaohui Fan
+- Scott D. Friedman
+- Joshua A. Frieman
+- Masataka Fukugita
+- Boris T. Gänsicke
+- Evalyn Gates
+- Bruce Gillespie
+- G. Gilmore
+- Belinda Gonzalez
+- Carlos F. Gonzalez
+- Eva K. Grebel
+- James E. Gunn
+- Zsuzsanna Györy
+- Patrick B. Hall
+- Paul Harding
+- Frederick H. Harris
+- Michael Harvanek
+- Suzanne L. Hawley
+- Jeffrey J.~E. Hayes
+- Timothy M. Heckman
+- John S. Hendry
+- Gregory S. Hennessy
+- Robert B. Hindsley
+- J. Hoblitt
+- Craig J. Hogan
+- David W. Hogg
+- Jon A. Holtzman
+- Joseph B. Hyde
+- Shin-ichi Ichikawa
+- Takashi Ichikawa
+- Myungshin Im
+- Željko Ivezić
+- Sebastian Jester
+- Linhua Jiang
+- Jennifer A. Johnson
+- Anders M. Jorgensen
+- ́ Mario Juri\
+- Stephen M. Kent
+- R. Kessler
+- S.~J. Kleinman
+- G.~R. Knapp
+- Kohki Konishi
+- Richard G. Kron
+- Jurek Krzesinski
+- Nikolay Kuropatkin
+- Hubert Lampeitl
+- Svetlana Lebedeva
+- Myung Gyoon Lee
+- Young Sun Lee
+- R. French Leger
+- Sébastien Lépine
+- Nolan Li
+- Marcos Lima
+- Huan Lin
+- Daniel C. Long
+- Craig P. Loomis
+- Jon Loveday
+- Robert H. Lupton
+- Eugene Magnier
+- Olena Malanushenko
+- Viktor Malanushenko
+- Rachel Mandelbaum
+- Bruce Margon
+- John P. Marriner
+- David Mart\'éz-Delgado
+- Takahiko Matsubara
+- Peregrine M. McGehee
+- Timothy A. McKay
+- Avery Meiksin
+- Heather L. Morrison
+- Fergal Mullally
+- Jeffrey A. Munn
+- Tara Murphy
+- Thomas Nash
+- Ada Nebot
+- Jr., Eric H. Neilsen
+- Heidi Jo Newberg
+- Peter R. Newman
+- Robert C. Nichol
+- Tom Nicinski
+- Maria Nieto-Santisteban
+- Atsuko Nitta
+- Sadanori Okamura
+- Daniel J. Oravetz
+- Jeremiah P. Ostriker
+- Russell Owen
+- Nikhil Padmanabhan
+- Kaike Pan
+- Changbom Park
+- George Pauls
+- Jr., John Peoples
+- Will J. Percival
+- Jeffrey R. Pier
+- Adrian C. Pope
+- Dimitri Pourbaix
+- Paul A. Price
+- Norbert Purger
+- Thomas Quinn
+- M. Jordan Raddick
+- Paola Re Fiorentin
+- Gordon T. Richards
+- Michael W. Richmond
+- Adam G. Riess
+- Hans-Walter Rix
+- Constance M. Rockosi
+- Masao Sako
+- David J. Schlegel
+- Donald P. Schneider
+- Ralf-Dieter Scholz
+- Matthias R. Schreiber
+- Axel D. Schwope
+- Uroš Seljak
+- Branimir Sesar
+- Erin Sheldon
+- Kazu Shimasaku
+- Valena C. Sibley
+- A.~E. Simmons
+- Thirupathi Sivarani
+- J. Allyn Smith
+- Martin C. Smith
+- " Smolči\\'cV́ernesa"
+- Stephanie A. Snedden
+- Albert Stebbins
+- Matthias Steinmetz
+- Chris Stoughton
+- Michael A. Strauss
+- Mark SubbaRao
+- Yasushi Suto
+- Alexander S. Szalay
+- István Szapudi
+- Paula Szkody
+- Masayuki Tanaka
+- Max Tegmark
+- Luis F.~A. Teodoro
+- Aniruddha R. Thakar
+- Christy A. Tremonti
+- Douglas L. Tucker
+- Alan Uomoto
+- Daniel E. Vanden Berk
+- Jan Vandenberg
+- S. Vidrih
+- Michael S. Vogeley
+- Wolfgang Voges
+- Nicole P. Vogt
+- Yogesh Wadadekar
+- Shannon Watters
+- David H. Weinberg
+- Andrew A. West
+- Simon D.~M. White
+- Brian C. Wilhite
+- Alainna C. Wonders
+- Brian Yanny
+- D.~R. Yocum
+date: '2009-06-01'
+publishDate: '2025-08-13T13:45:22.926179Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.1088/0067-0049/182/2/543
+tags:
+- atlases
+- catalogs
+- surveys
+- Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0812.0649
+---

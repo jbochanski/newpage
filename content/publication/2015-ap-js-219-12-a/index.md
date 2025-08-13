@@ -1,0 +1,220 @@
+---
+title: 'The Eleventh and Twelfth Data Releases of the Sloan Digital Sky Survey: Final
+  Data from SDSS-III'
+authors:
+- Shadab Alam
+- Franco D. Albareti
+- Carlos Allende Prieto
+- F. Anders
+- Scott F. Anderson
+- Timothy Anderton
+- Brett H. Andrews
+- Eric Armengaud
+- Éric Aubourg
+- Stephen Bailey
+- Sarbani Basu
+- Julian E. Bautista
+- Rachael L. Beaton
+- Timothy C. Beers
+- Chad F. Bender
+- Andreas A. Berlind
+- Florian Beutler
+- Vaishali Bhardwaj
+- Jonathan C. Bird
+- Dmitry Bizyaev
+- Cullen H. Blake
+- Michael R. Blanton
+- Michael Blomqvist
+- John J. Bochanski
+- Adam S. Bolton
+- Jo Bovy
+- A. Shelden Bradley
+- W.~N. Brandt
+- D.~E. Brauer
+- J. Brinkmann
+- Peter J. Brown
+- Joel R. Brownstein
+- Angela Burden
+- Etienne Burtin
+- Nicolás G. Busca
+- Zheng Cai
+- Diego Capozzi
+- Aurelio Carnero Rosell
+- Michael A. Carr
+- Ricardo Carrera
+- K.~C. Chambers
+- William James Chaplin
+- Yen-Chi Chen
+- Cristina Chiappini
+- S. Drew Chojnowski
+- Chia-Hsun Chuang
+- Nicolas Clerc
+- Johan Comparat
+- Kevin Covey
+- Rupert A.~C. Croft
+- Antonio J. Cuesta
+- Katia Cunha
+- Luiz N. da Costa
+- Nicola Da Rio
+- James R.~A. Davenport
+- Kyle S. Dawson
+- Nathan De Lee
+- Timothée Delubac
+- Rohit Deshpande
+- Saurav Dhital
+- Letı́cia Dutra-Ferreira
+- Tom Dwelly
+- Anne Ealet
+- Garrett L. Ebelke
+- Edward M. Edmondson
+- Daniel J. Eisenstein
+- Tristan Ellsworth
+- Yvonne Elsworth
+- Courtney R. Epstein
+- Michael Eracleous
+- Stephanie Escoffier
+- Massimiliano Esposito
+- Michael L. Evans
+- Xiaohui Fan
+- Emma Fernández-Alvar
+- Diane Feuillet
+- Nurten Filiz Ak
+- Hayley Finley
+- Alexis Finoguenov
+- Kevin Flaherty
+- Scott W. Fleming
+- Andreu Font-Ribera
+- Jonathan Foster
+- Peter M. Frinchaboy
+- J.~G. Galbraith-Frew
+- Rafael A. Garc\á
+- D.~A. Garc\'-́Hernández
+- Ana E. Garc\'ıṔérez
+- Patrick Gaulme
+- Jian Ge
+- R. Génova-Santos
+- A. Georgakakis
+- Luan Ghezzi
+- Bruce A. Gillespie
+- Léo Girardi
+- Daniel Goddard
+- Satya Gontcho A. Gontcho
+- Jonay I. González Hernández
+- Eva K. Grebel
+- Paul J. Green
+- Jan Niklas Grieb
+- Nolan Grieves
+- James E. Gunn
+- Hong Guo
+- Paul Harding
+- Sten Hasselquist
+- Suzanne L. Hawley
+- Michael Hayden
+- Fred R. Hearty
+- Saskia Hekker
+- Shirley Ho
+- David W. Hogg
+- Kelly Holley-Bockelmann
+- Jon A. Holtzman
+- Klaus Honscheid
+- Daniel Huber
+- Joseph Huehnerhoff
+- Inese I. Ivans
+- Linhua Jiang
+- Jennifer A. Johnson
+- Karen Kinemuchi
+- David Kirkby
+- Francisco Kitaura
+- Mark A. Klaene
+- Gillian R. Knapp
+- Jean-Paul Kneib
+- Xavier P. Koenig
+- Charles R. Lam
+- Ting-Wen Lan
+- Dustin Lang
+- Pierre Laurent
+- Jean-Marc Le Goff
+- Alexie Leauthaud
+- Khee-Gan Lee
+- Young Sun Lee
+- Timothy C. Licquia
+- Jian Liu
+- Daniel C. Long
+- Mart\'ınńd Lorenzo-Oliveira, Diego López-Corredoira
+- Sara Lucatello
+- Britt Lundgren
+- Robert H. Lupton
+- III, Claude E. Mack
+- Suvrath Mahadevan
+- Marcio A.~G. Maia
+- Steven R. Majewski
+- Elena Malanushenko
+- Viktor Malanushenko
+- A. Manchado
+- Marc Manera
+- Qingqing Mao
+- Claudia Maraston
+- Robert C. Marchwinski
+- Daniel Margala
+- Sarah L. Martell
+- Marie Martig
+- Karen L. Masters
+- Savita Mathur
+- Cameron K. McBride
+- Peregrine M. McGehee
+- Ian D. McGreer
+- Richard G. McMahon
+- Brice Ménard
+- Marie-Luise Menzel
+- Andrea Merloni
+- Szabolcs Mészáros
+- Adam A. Miller
+- Jordi Miralda-Escudé
+- Hironao Miyatake
+- Antonio D. Montero-Dorta
+- Surhud More
+- Eric Morganson
+- Xan Morice-Atkinson
+- Heather L. Morrison
+- Benôit Mosser
+- Demitri Muna
+- Adam D. Myers
+- Kirpal Nandra
+- Jeffrey A. Newman
+- Mark Neyrinck
+- Duy Cuong Nguyen
+- Robert C. Nichol
+- David L. Nidever
+- Pasquier Noterdaeme
+- Sebastián E. Nuza
+- Julia E. O'Connell
+- Robert W. O'Connell
+- Ross O'Connell
+- Ricardo L.~C. Ogando
+- Matthew D. Olmstead
+- Audrey E. Oravetz
+- Daniel J. Oravetz
+- Keisuke Osumi
+- Russell Owen
+- Deborah L. Padgett
+- Nikhil Padmanabhan
+- Martin Paegert
+- Nathalie Palanque-Delabrouille
+- Kaike Pan
+date: '2015-07-01'
+publishDate: '2025-08-13T13:45:22.121845Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.1088/0067-0049/219/1/12
+tags:
+- atlases
+- catalogs
+- surveys
+- Astrophysics - Instrumentation and Methods for Astrophysics
+- Astrophysics - Astrophysics of Galaxies
+- Astrophysics - Solar and Stellar Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1501.00963
+---

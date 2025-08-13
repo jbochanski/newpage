@@ -1,0 +1,218 @@
+---
+title: 'Sloan Digital Sky Survey-V: Pioneering Panoptic Spectroscopy'
+authors:
+- Juna A. Kollmeier
+- Hans-Walter Rix
+- Conny Aerts
+- James Aird
+- Pablo Vera Alfaro
+- Andrés Almeida
+- Scott F. Anderson
+- Óscar Jiménez Arranz
+- Stefan M. Arseneau
+- Roberto Assef
+- Shir Aviram
+- Catarina Aydar
+- Carles Badenes
+- Avrajit Bandyopadhyay
+- Kat Barger
+- Robert H. Barkhouser
+- Franz E. Bauer
+- Chad Bender
+- Felipe Besser
+- Binod Bhattarai
+- Pavaman Bilgi
+- Jonathan Bird
+- Dmitry Bizyaev
+- Guillermo A. Blanc
+- Michael R. Blanton
+- John Bochanski
+- Jo Bovy
+- Christopher Brandon
+- William Nielsen Brandt
+- Joel R. Brownstein
+- Johannes Buchner
+- Joseph N. Burchett
+- Joleen Carlberg
+- Andrew R. Casey
+- Lesly Castaneda-Carlos
+- Priyanka Chakraborty
+- Julio Chanamé
+- Vedant Chandra
+- Brian Cherinka
+- Igor Chilingarian
+- Johan Comparat
+- Maren Cosens
+- Kevin Covey
+- Jeffrey D. Crane
+- Nicole R. Crumpler
+- Katia Cunha
+- Tim Cunningham
+- Xinyu Dai
+- Jeremy Darling
+- Jr., James W. Davidson
+- Megan C. Davis
+- Nathan De Lee
+- Niall Deacon
+- José Eduardo Méndez Delgado
+- Sebastian Demasi
+- Mariia Demianenko
+- Mark Derwent
+- Elena D'Onghia
+- Francesco Di Mille
+- Bruno Dias
+- John Donor
+- Niv Drory
+- Tom Dwelly
+- Oleg Egorov
+- Evgeniya Egorova
+- Kareem El-Badry
+- Mike Engelman
+- Mike Eracleous
+- Xiaohui Fan
+- Emily Farr
+- Logan Fries
+- Peter Frinchaboy
+- Cynthia S. Froning
+- Boris T. Gänsicke
+- Pablo Garcı́a
+- Joseph Gelfand
+- Nicola Pietro Gentile Fusillo
+- Simon Glover
+- Katie Grabowski
+- Eva K. Grebel
+- Paul J Green
+- Catherine Grier
+- Pramod Gupta
+- Aidan C. Gray
+- Maximilian Häberle
+- Patrick B. Hall
+- Randolph P. Hammond
+- Keith Hawkins
+- Albert C. Harding
+- Viola Hegedűs
+- Tom Herbst
+- J.~J. Hermes
+- Paola Rodr\ǵuez Hidalgo
+- Thomas Hilder
+- David W Hogg
+- Jon A. Holtzman
+- Danny Horta
+- Yang Huang
+- Hsiang-Chih Hwang
+- Hector Javier Ibarra-Medel
+- Julie Imig
+- Keith Inight
+- Arghajit Jana
+- Alexander P. Ji
+- Paula Jofre
+- Matt Johns
+- Jennifer Johnson
+- James W. Johnson
+- Evelyn J. Johnston
+- Amy M Jones
+- Ivan Katkov
+- Anton M. Koekemoer
+- Marina Kounkel
+- Kathryn Kreckel
+- Dhanesh Krishnarao
+- Mirko Krumpe
+- Nimisha Kumari
+- Thomas Kupfer
+- Ivan Lacerna
+- Chervin Laporte
+- Sebastien Lepine
+- Jing Li
+- Xin Liu
+- Sarah Loebman
+- Knox Long
+- Alexandre Roman-Lopes
+- Yuxi Lu
+- Steven Raymond Majewski
+- Dan Maoz
+- Kevin A. McKinnon
+- Ilija Medan
+- Andrea Merloni
+- Dante Minniti
+- Sean Morrison
+- Natalie Myers
+- Szabolcs Mészáros
+- Kirpal Nandra
+- Prasanta K. Nayak
+- Melissa K Ness
+- David L. Nidever
+- Thomas O'Brien
+- Micah Oeur
+- Audrey Oravetz
+- Daniel Oravetz
+- Jonah Otto
+- Gautham Adamane Pallathadka
+- Povilas Palunas
+- Kaike Pan
+- Daniel Pappalardo
+- Rakesh Pandey
+- Castalia Alenka Negrete Peñaloza
+- Marc H. Pinsonneault
+- Richard W. Pogge
+- Manuchehr Taghizadeh Popp
+- Adrian M. Price-Whelan
+- Nadiia Pulatova
+- Dan Qiu
+- Solange Ramirez
+- Amy Rankine
+- Claudio Ricci
+- Jessie C. Runnoe
+- Sebastian Sanchez
+- Mara Salvato
+- Natascha Sattler
+- Andrew K. Saydjari
+- Conor Sayres
+- Kevin C. Schlaufman
+- Donald P. Schneider
+- Matthias R. Schreiber
+- Axel Schwope
+- Javier Serna
+- Yue Shen
+- Cristóbal Sifón
+- Amrita Singh
+- Amaya Sinha
+- Stephen Smee
+- Ying-Yi Song
+- Diogo Souto
+- Keivan G. Stassun
+- Matthias Steinmetz
+- Alexander Stone-Martinez
+- Guy Stringfellow
+- Amelia Stutz
+- ' José'
+- ' Sá'
+- ' nchez-Gallego'
+- Jonathan C. Tan
+- Jamie Tayar
+- Riley Thai
+- Ani Thakar
+- Yuan-Sen Ting
+- Andrew Tkachenko
+- Gagik Tovmasian
+- Benny Trakhtenbrot
+- José G. Fernández-Trincado
+- Nicholas Troup
+- Jonathan Trump
+- Sarah Tuttle
+- Roeland P. van der Marel
+- Sandro Villanova
+date: '2025-07-01'
+publishDate: '2025-08-13T13:45:21.862493Z'
+publication_types:
+- article-journal
+publication: '*arXiv e-prints*'
+doi: 10.48550/arXiv.2507.06989
+tags:
+- Instrumentation and Methods for Astrophysics
+- Astrophysics of Galaxies
+- High Energy Astrophysical Phenomena
+- Solar and Stellar Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2507.06989
+---

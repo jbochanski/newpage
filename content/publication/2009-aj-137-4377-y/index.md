@@ -1,0 +1,129 @@
+---
+title: 'SEGUE: A Spectroscopic Survey of 240,000 Stars with g = 14-20'
+authors:
+- Brian Yanny
+- Constance Rockosi
+- Heidi Jo Newberg
+- Gillian R. Knapp
+- Jennifer K. Adelman-McCarthy
+- Bonnie Alcorn
+- Sahar Allam
+- Carlos Allende Prieto
+- Deokkeun An
+- Kurt S.~J. Anderson
+- Scott Anderson
+- Coryn A.~L. Bailer-Jones
+- Steve Bastian
+- Timothy C. Beers
+- Eric Bell
+- Vasily Belokurov
+- Dmitry Bizyaev
+- Norm Blythe
+- John J. Bochanski
+- William N. Boroski
+- Jarle Brinchmann
+- J. Brinkmann
+- Howard Brewington
+- Larry Carey
+- Kyle M. Cudworth
+- Michael Evans
+- N.~W. Evans
+- Evalyn Gates
+- B.~T. Gänsicke
+- Bruce Gillespie
+- Gerald Gilmore
+- Ada Nebot Gomez-Moran
+- Eva K. Grebel
+- Jim Greenwell
+- James E. Gunn
+- Cathy Jordan
+- Wendell Jordan
+- Paul Harding
+- Hugh Harris
+- John S. Hendry
+- Diana Holder
+- Inese I. Ivans
+- Željko Ivezič
+- Sebastian Jester
+- Jennifer A. Johnson
+- Stephen M. Kent
+- Scot Kleinman
+- Alexei Kniazev
+- Jurek Krzesinski
+- Richard Kron
+- Nikolay Kuropatkin
+- Svetlana Lebedeva
+- Young Sun Lee
+- R. French Leger
+- Sébastien Lépine
+- Steve Levine
+- Huan Lin
+- Daniel C. Long
+- Craig Loomis
+- Robert Lupton
+- Olena Malanushenko
+- Viktor Malanushenko
+- Bruce Margon
+- David Martinez-Delgado
+- Peregrine McGehee
+- Dave Monet
+- Heather L. Morrison
+- Jeffrey A. Munn
+- Jr., Eric H. Neilsen
+- Atsuko Nitta
+- John E. Norris
+- Dan Oravetz
+- Russell Owen
+- Nikhil Padmanabhan
+- Kaike Pan
+- R.~S. Peterson
+- Jeffrey R. Pier
+- Jared Platson
+- Paola Re Fiorentin
+- Gordon T. Richards
+- Hans-Walter Rix
+- David J. Schlegel
+- Donald P. Schneider
+- Matthias R. Schreiber
+- Axel Schwope
+- Valena Sibley
+- Audrey Simmons
+- Stephanie A. Snedden
+- J. Allyn Smith
+- Larry Stark
+- Fritz Stauffer
+- M. Steinmetz
+- C. Stoughton
+- Mark SubbaRao
+- Alex Szalay
+- Paula Szkody
+- Aniruddha R. Thakar
+- Thirupathi Sivarani
+- Douglas Tucker
+- Alan Uomoto
+- Dan Vanden Berk
+- Simon Vidrih
+- Yogesh Wadadekar
+- Shannon Watters
+- Ron Wilhelm
+- Rosemary F.~G. Wyse
+- Jean Yarger
+- Dan Zucker
+date: '2009-05-01'
+publishDate: '2025-08-13T13:45:22.947426Z'
+publication_types:
+- article-journal
+publication: '*aj*'
+doi: 10.1088/0004-6256/137/5/4377
+tags:
+- 'Galaxy: halo'
+- 'Galaxy: stellar content'
+- 'Galaxy: structure'
+- 'stars: abundances'
+- 'stars: fundamental parameters'
+- 'stars: general'
+- Astrophysics - Galaxy Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0902.1781
+---

@@ -1,0 +1,219 @@
+---
+title: LSST Science Book, Version 2.0
+authors:
+- LSST Science Collaboration
+- Paul A. Abell
+- Julius Allison
+- Scott F. Anderson
+- John R. Andrew
+- J. Roger P. Angel
+- Lee Armus
+- David Arnett
+- S.~J. Asztalos
+- Tim S. Axelrod
+- Stephen Bailey
+- D.~R. Ballantyne
+- Justin R. Bankert
+- Wayne A. Barkhouse
+- Jeffrey D. Barr
+- L. Felipe Barrientos
+- Aaron J. Barth
+- James G. Bartlett
+- Andrew C. Becker
+- Jacek Becla
+- Timothy C. Beers
+- Joseph P. Bernstein
+- Rahul Biswas
+- Michael R. Blanton
+- Joshua S. Bloom
+- John J. Bochanski
+- Pat Boeshaar
+- Kirk D. Borne
+- Marusa Bradac
+- W.~N. Brandt
+- Carrie R. Bridge
+- Michael E. Brown
+- Robert J. Brunner
+- James S. Bullock
+- Adam J. Burgasser
+- James H. Burge
+- David L. Burke
+- Phillip A. Cargile
+- Srinivasan Chandrasekharan
+- George Chartas
+- Steven R. Chesley
+- You-Hua Chu
+- David Cinabro
+- Mark W. Claire
+- Charles F. Claver
+- Douglas Clowe
+- A.~J. Connolly
+- Kem H. Cook
+- Jeff Cooke
+- Asantha Cooray
+- Kevin R. Covey
+- Christopher S. Culliton
+- Roelof de Jong
+- Willem H. de Vries
+- Victor P. Debattista
+- Francisco Delgado
+- Ian P. Dell'Antonio
+- Saurav Dhital
+- Rosanne Di Stefano
+- Mark Dickinson
+- Benjamin Dilday
+- S.~G. Djorgovski
+- Gregory Dobler
+- Ciro Donalek
+- Gregory Dubois-Felsmann
+- Josef Durech
+- Ardis Eliasdottir
+- Michael Eracleous
+- Laurent Eyer
+- Emilio E. Falco
+- Xiaohui Fan
+- Christopher D. Fassnacht
+- Harry C. Ferguson
+- Yanga R. Fernandez
+- Brian D. Fields
+- Douglas Finkbeiner
+- Eduardo E. Figueroa
+- Derek B. Fox
+- Harold Francke
+- James S. Frank
+- Josh Frieman
+- Sebastien Fromenteau
+- Muhammad Furqan
+- Gaspar Galaz
+- A. Gal-Yam
+- Peter Garnavich
+- Eric Gawiser
+- John Geary
+- Perry Gee
+- Robert R. Gibson
+- Kirk Gilmore
+- Emily A. Grace
+- Richard F. Green
+- William J. Gressler
+- Carl J. Grillmair
+- Salman Habib
+- J.~S. Haggerty
+- Mario Hamuy
+- Alan W. Harris
+- Suzanne L. Hawley
+- Alan F. Heavens
+- Leslie Hebb
+- Todd J. Henry
+- Edward Hileman
+- Eric J. Hilton
+- Keri Hoadley
+- J.~B. Holberg
+- Matt J. Holman
+- Steve B. Howell
+- Leopoldo Infante
+- Zeljko Ivezic
+- Suzanne H. Jacoby
+- Bhuvnesh Jain
+- ' R'
+- ' Jedicke'
+- M. James Jee
+- J. Garrett Jernigan
+- Saurabh W. Jha
+- Kathryn V. Johnston
+- R. Lynne Jones
+- Mario Juric
+- Mikko Kaasalainen
+- ' Styliani'
+- ' Kafka'
+- Steven M. Kahn
+- Nathan A. Kaib
+- Jason Kalirai
+- Jeff Kantor
+- Mansi M. Kasliwal
+- Charles R. Keeton
+- Richard Kessler
+- Zoran Knezevic
+- Adam Kowalski
+- Victor L. Krabbendam
+- K. Simon Krughoff
+- Shrinivas Kulkarni
+- Stephen Kuhlman
+- Mark Lacy
+- Sebastien Lepine
+- Ming Liang
+- Amy Lien
+- Paulina Lira
+- Knox S. Long
+- Suzanne Lorenz
+- Jennifer M. Lotz
+- R.~H. Lupton
+- Julie Lutz
+- Lucas M. Macri
+- Ashish A. Mahabal
+- Rachel Mandelbaum
+- Phil Marshall
+- Morgan May
+- Peregrine M. McGehee
+- Brian T. Meadows
+- Alan Meert
+- Andrea Milani
+- Christopher J. Miller
+- Michelle Miller
+- David Mills
+- Dante Minniti
+- David Monet
+- Anjum S. Mukadam
+- Ehud Nakar
+- Douglas R. Neill
+- Jeffrey A. Newman
+- Sergei Nikolaev
+- Martin Nordby
+- Paul O'Connor
+- Masamune Oguri
+- John Oliver
+- Scot S. Olivier
+- Julia K. Olsen
+- Knut Olsen
+- Edward W. Olszewski
+- Hakeem Oluseyi
+- Nelson D. Padilla
+- Alex Parker
+- Joshua Pepper
+- John R. Peterson
+- Catherine Petry
+- Philip A. Pinto
+- James L. Pizagno
+- Bogdan Popescu
+- Andrej Prsa
+- Veljko Radcka
+- M. Jordan Raddick
+- Andrew Rasmussen
+- Arne Rau
+- Jeonghee Rho
+- James E. Rhoads
+- Gordon T. Richards
+- Stephen T. Ridgway
+- Brant E. Robertson
+- Rok Roskar
+- Abhijit Saha
+- Ata Sarajedini
+- Evan Scannapieco
+- Terry Schalk
+- Rafe Schindler
+- Samuel Schmidt
+date: '2009-12-01'
+publishDate: '2025-08-13T13:45:22.866758Z'
+publication_types:
+- article-journal
+publication: '*arXiv e-prints*'
+doi: 10.48550/arXiv.0912.0201
+tags:
+- Astrophysics - Instrumentation and Methods for Astrophysics
+- Astrophysics - Cosmology and Extragalactic Astrophysics
+- Astrophysics - Earth and Planetary Astrophysics
+- Astrophysics - Galaxy Astrophysics
+- Astrophysics - Solar and Stellar Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0912.0201
+---
