@@ -1,0 +1,221 @@
+---
+title: 'The Tenth Data Release of the Sloan Digital Sky Survey: First Spectroscopic
+  Data from the SDSS-III Apache Point Observatory Galactic Evolution Experiment'
+authors:
+- Christopher P. Ahn
+- Rachael Alexandroff
+- Carlos Allende Prieto
+- Friedrich Anders
+- Scott F. Anderson
+- Timothy Anderton
+- Brett H. Andrews
+- Éric Aubourg
+- Stephen Bailey
+- Fabienne A. Bastien
+- Julian E. Bautista
+- Timothy C. Beers
+- Alessandra Beifiori
+- Chad F. Bender
+- Andreas A. Berlind
+- Florian Beutler
+- Vaishali Bhardwaj
+- Jonathan C. Bird
+- Dmitry Bizyaev
+- Cullen H. Blake
+- Michael R. Blanton
+- Michael Blomqvist
+- John J. Bochanski
+- Adam S. Bolton
+- Arnaud Borde
+- Jo Bovy
+- Alaina Shelden Bradley
+- W.~N. Brandt
+- Dorothée Brauer
+- J. Brinkmann
+- Joel R. Brownstein
+- Nicolás G. Busca
+- William Carithers
+- Joleen K. Carlberg
+- Aurelio R. Carnero
+- Michael A. Carr
+- Cristina Chiappini
+- S. Drew Chojnowski
+- Chia-Hsun Chuang
+- Johan Comparat
+- Justin R. Crepp
+- Stefano Cristiani
+- Rupert A.~C. Croft
+- Antonio J. Cuesta
+- Katia Cunha
+- Luiz N. da Costa
+- Kyle S. Dawson
+- Nathan De Lee
+- Janice D.~R. Dean
+- Timothée Delubac
+- Rohit Deshpande
+- Saurav Dhital
+- Anne Ealet
+- Garrett L. Ebelke
+- Edward M. Edmondson
+- Daniel J. Eisenstein
+- Courtney R. Epstein
+- Stephanie Escoffier
+- Massimiliano Esposito
+- Michael L. Evans
+- D. Fabbian
+- Xiaohui Fan
+- Ginevra Favole
+- Bruno Femenı́a Castellá
+- Emma Fernández Alvar
+- Diane Feuillet
+- Nurten Filiz Ak
+- Hayley Finley
+- Scott W. Fleming
+- Andreu Font-Ribera
+- Peter M. Frinchaboy
+- J.~G. Galbraith-Frew
+- D.~A. Garc\á-Hernández
+- Ana E. Garc\' ́Pérez
+- Jian Ge
+- R. Génova-Santos
+- Bruce A. Gillespie
+- Léo Girardi
+- Jonay I. González Hernández
+- III, J. Richard Gott
+- James E. Gunn
+- Hong Guo
+- Samuel Halverson
+- Paul Harding
+- David W. Harris
+- Sten Hasselquist
+- Suzanne L. Hawley
+- Michael Hayden
+- Frederick R. Hearty
+- Artemio Herrero Davó
+- Shirley Ho
+- David W. Hogg
+- Jon A. Holtzman
+- Klaus Honscheid
+- Joseph Huehnerhoff
+- Inese I. Ivans
+- Kelly M. Jackson
+- Peng Jiang
+- Jennifer A. Johnson
+- K. Kinemuchi
+- David Kirkby
+- Mark A. Klaene
+- Jean-Paul Kneib
+- Lars Koesterke
+- Ting-Wen Lan
+- Dustin Lang
+- Jean-Marc Le Goff
+- Alexie Leauthaud
+- Khee-Gan Lee
+- Young Sun Lee
+- Daniel C. Long
+- Craig P. Loomis
+- Sara Lucatello
+- Robert H. Lupton
+- Bo Ma
+- III, Claude E. Mack
+- Suvrath Mahadevan
+- Marcio A.~G. Maia
+- Steven R. Majewski
+- Elena Malanushenko
+- Viktor Malanushenko
+- A. Manchado
+- Marc Manera
+- Claudia Maraston
+- Daniel Margala
+- Sarah L. Martell
+- Karen L. Masters
+- Cameron K. McBride
+- Ian D. McGreer
+- Richard G. McMahon
+- Brice Ménard
+- Sz. Mészáros
+- Jordi Miralda-Escudé
+- Hironao Miyatake
+- Antonio D. Montero-Dorta
+- Francesco Montesano
+- Surhud More
+- Heather L. Morrison
+- Demitri Muna
+- Jeffrey A. Munn
+- Adam D. Myers
+- Duy Cuong Nguyen
+- Robert C. Nichol
+- David L. Nidever
+- Pasquier Noterdaeme
+- Sebastián E. Nuza
+- Julia E. O'Connell
+- Robert W. O'Connell
+- Ross O'Connell
+- Matthew D. Olmstead
+- Daniel J. Oravetz
+- Russell Owen
+- Nikhil Padmanabhan
+- Nathalie Palanque-Delabrouille
+- Kaike Pan
+- John K. Parejko
+- Prachi Parihar
+- Isabelle Pâris
+- Joshua Pepper
+- Will J. Percival
+- Ignasi Pérez-Ràfols
+- Hélio Dotto Perottoni
+- Patrick Petitjean
+- Matthew M. Pieri
+- M.~H. Pinsonneault
+- Francisco Prada
+- Adrian M. Price-Whelan
+- M. Jordan Raddick
+- Mubdi Rahman
+- Rafael Rebolo
+- Beth A. Reid
+- Jonathan C. Richards
+- Rogério Riffel
+- Annie C. Robin
+- H.~J. Rocha-Pinto
+- Constance M. Rockosi
+- Natalie A. Roe
+- Ashley J. Ross
+- Nicholas P. Ross
+- Graziano Rossi
+- Arpita Roy
+- J.~A. Rubiño-Martin
+- Cristiano G. Sabiu
+- Ariel G. Sánchez
+- Bas\'ıó Santiago
+- Conor Sayres
+- Ricardo P. Schiavon
+- David J. Schlegel
+- Katharine J. Schlesinger
+- Sarah J. Schmidt
+- Donald P. Schneider
+- Mathias Schultheis
+- Kris Sellgren
+- Hee-Jong Seo
+- Yue Shen
+- Matthew Shetrone
+- Yiping Shu
+- Audrey E. Simmons
+- M.~F. Skrutskie
+- Anže Slosar
+date: '2014-04-01'
+publishDate: '2025-08-13T13:45:22.239302Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.1088/0067-0049/211/2/17
+tags:
+- atlases
+- catalogs
+- surveys
+- Astrophysics - Instrumentation and Methods for Astrophysics
+- Astrophysics - Cosmology and Nongalactic Astrophysics
+- Astrophysics - Astrophysics of Galaxies
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1307.7735
+---

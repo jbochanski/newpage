@@ -1,0 +1,181 @@
+---
+title: 'The Eighteenth Data Release of the Sloan Digital Sky Surveys: Targeting and
+  First Spectra from SDSS-V'
+authors:
+- Andrés Almeida
+- Scott F. Anderson
+- Maria Argudo-Fernández
+- Carles Badenes
+- Kat Barger
+- Jorge K. Barrera-Ballesteros
+- Chad F. Bender
+- Erika Benitez
+- Felipe Besser
+- Jonathan C. Bird
+- Dmitry Bizyaev
+- Michael R. Blanton
+- John Bochanski
+- Jo Bovy
+- William Nielsen Brandt
+- Joel R. Brownstein
+- Johannes Buchner
+- Esra Bulbul
+- Joseph N. Burchett
+- Mariana Cano Dı́az
+- Joleen K. Carlberg
+- Andrew R. Casey
+- Vedant Chandra
+- Brian Cherinka
+- Cristina Chiappini
+- Abigail A. Coker
+- Johan Comparat
+- Charlie Conroy
+- Gabriella Contardo
+- Arlin Cortes
+- Kevin Covey
+- Jeffrey D. Crane
+- Katia Cunha
+- Collin Dabbieri
+- James W. Davidson
+- Megan C. Davis
+- Anna Barbara de Andrade Queiroz
+- Nathan De Lee
+- José Eduardo Méndez Delgado
+- Sebastian Demasi
+- Francesco Di Mille
+- John Donor
+- Peter Dow
+- Tom Dwelly
+- Mike Eracleous
+- Jamey Eriksen
+- Xiaohui Fan
+- Emily Farr
+- Sara Frederick
+- Logan Fries
+- Peter Frinchaboy
+- Boris T. Gänsicke
+- Junqiang Ge
+- Consuelo González Ávila
+- Katie Grabowski
+- Catherine Grier
+- Guillaume Guiglion
+- Pramod Gupta
+- Patrick Hall
+- Keith Hawkins
+- Christian R. Hayes
+- J.~J. Hermes
+- Lorena Hernández-Garc\á
+- David W. Hogg
+- Jon A. Holtzman
+- Hector Javier Ibarra-Medel
+- Alexander Ji
+- Paula Jofre
+- Jennifer A. Johnson
+- Amy M. Jones
+- Karen Kinemuchi
+- Matthias Kluge
+- Anton Koekemoer
+- Juna A. Kollmeier
+- Marina Kounkel
+- Dhanesh Krishnarao
+- Mirko Krumpe
+- Ivan Lacerna
+- Paulo Jakson Assuncao Lago
+- Chervin Laporte
+- Chao Liu
+- Ang Liu
+- Xin Liu
+- Alexandre Roman Lopes
+- Matin Macktoobian
+- Steven R. Majewski
+- Viktor Malanushenko
+- Dan Maoz
+- Thomas Masseron
+- Karen L. Masters
+- Gal Matijevic
+- Aidan McBride
+- Ilija Medan
+- Andrea Merloni
+- Sean Morrison
+- Natalie Myers
+- Szabolcs Mészáros
+- C. Alenka Negrete
+- David L. Nidever
+- Christian Nitschelm
+- Daniel Oravetz
+- Audrey Oravetz
+- Kaike Pan
+- Yingjie Peng
+- Marc H. Pinsonneault
+- Rick Pogge
+- Dan Qiu
+- Solange V. Ramirez
+- Hans-Walter Rix
+- Daniela Fernández Rosso
+- Jessie Runnoe
+- Mara Salvato
+- Sebastian F. Sanchez
+- Felipe A. Santana
+- Andrew Saydjari
+- Conor Sayres
+- Kevin C. Schlaufman
+- Donald P. Schneider
+- Axel Schwope
+- Javier Serna
+- Yue Shen
+- Jennifer Sobeck
+- Ying-Yi Song
+- Diogo Souto
+- Taylor Spoo
+- Keivan G. Stassun
+- Matthias Steinmetz
+- Ilya Straumit
+- Guy Stringfellow
+- José Sánchez-Gallego
+- Manuchehr Taghizadeh-Popp
+- Jamie Tayar
+- Ani Thakar
+- Patricia B. Tissera
+- Andrew Tkachenko
+- Hector Hernandez Toledo
+- Benny Trakhtenbrot
+- José G. Fernández-Trincado
+- Nicholas Troup
+- Jonathan R. Trump
+- Sarah Tuttle
+- Natalie Ulloa
+- Jose Antonio Vazquez-Mata
+- Pablo Vera Alfaro
+- Sandro Villanova
+- Stefanie Wachter
+- Anne-Marie Weijmans
+- Adam Wheeler
+- John Wilson
+- Leigh Wojno
+- Julien Wolf
+- Xiang-Xiang Xue
+- Jason E. Ybarra
+- Eleonora Zari
+- Gail Zasowski
+date: '2023-08-01'
+publishDate: '2025-08-13T13:45:21.905813Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.3847/1538-4365/acda98
+tags:
+- Surveys
+- Astronomy databases
+- Astronomy data acquisition
+- Astronomy software
+- '1671'
+- '83'
+- '1860'
+- '1855'
+- Astrophysics - Astrophysics of Galaxies
+- Astrophysics - Cosmology and Nongalactic Astrophysics
+- Astrophysics - High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2301.07688
+---

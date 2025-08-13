@@ -1,0 +1,207 @@
+---
+title: The First Data Release of the Sloan Digital Sky Survey
+authors:
+- Kevork Abazajian
+- Jennifer K. Adelman-McCarthy
+- Marcel A. Agüeros
+- Sahar S. Allam
+- Scott F. Anderson
+- James Annis
+- Neta A. Bahcall
+- Ivan K. Baldry
+- Steven Bastian
+- Andreas Berlind
+- Mariangela Bernardi
+- Michael R. Blanton
+- Norman Blythe
+- Jr., John J. Bochanski
+- William N. Boroski
+- Howard Brewington
+- John W. Briggs
+- J. Brinkmann
+- Robert J. Brunner
+- Tamás Budavári
+- Larry N. Carey
+- Michael A. Carr
+- Francisco J. Castander
+- Kuenley Chiu
+- Matthew J. Collinge
+- A.~J. Connolly
+- Kevin R. Covey
+- István Csabai
+- Julianne J. Dalcanton
+- Scott Dodelson
+- Mamoru Doi
+- Feng Dong
+- Daniel J. Eisenstein
+- Michael L. Evans
+- Xiaohui Fan
+- Paul D. Feldman
+- Douglas P. Finkbeiner
+- Scott D. Friedman
+- Joshua A. Frieman
+- Masataka Fukugita
+- Roy R. Gal
+- Bruce Gillespie
+- Karl Glazebrook
+- Carlos F. Gonzalez
+- Jim Gray
+- Eva K. Grebel
+- Lauren Grodnicki
+- James E. Gunn
+- Vijay K. Gurbani
+- Patrick B. Hall
+- Lei Hao
+- Daniel Harbeck
+- Frederick H. Harris
+- Hugh C. Harris
+- Michael Harvanek
+- Suzanne L. Hawley
+- Timothy M. Heckman
+- J.~F. Helmboldt
+- John S. Hendry
+- Gregory S. Hennessy
+- Robert B. Hindsley
+- David W. Hogg
+- Donald J. Holmgren
+- Jon A. Holtzman
+- Lee Homer
+- Lam Hui
+- Shin-ichi Ichikawa
+- Takashi Ichikawa
+- John P. Inkmann
+- Željko Ivezić
+- Sebastian Jester
+- David E. Johnston
+- Beatrice Jordan
+- Wendell P. Jordan
+- Anders M. Jorgensen
+- ́ Mario Juri\
+- Guinevere Kauffmann
+- Stephen M. Kent
+- S.~J. Kleinman
+- G.~R. Knapp
+- Alexei Y. Kniazev
+- Richard G. Kron
+- Jurek Krzesi\ŉski
+- Peter Z. Kunszt
+- Nickolai Kuropatkin
+- Donald Q. Lamb
+- Hubert Lampeitl
+- Bryan E. Laubscher
+- Brian C. Lee
+- R. French Leger
+- Nolan Li
+- Adam Lidz
+- Huan Lin
+- Yeong-Shang Loh
+- Daniel C. Long
+- Jon Loveday
+- Robert H. Lupton
+- Tanu Malik
+- Bruce Margon
+- Peregrine M. McGehee
+- Timothy A. McKay
+- Avery Meiksin
+- Gajus A. Miknaitis
+- Bhasker K. Moorthy
+- Jeffrey A. Munn
+- Tara Murphy
+- Reiko Nakajima
+- Vijay K. Narayanan
+- Thomas Nash
+- Jr., Eric H. Neilsen
+- Heidi Jo Newberg
+- Peter R. Newman
+- Robert C. Nichol
+- Tom Nicinski
+- Maria Nieto-Santisteban
+- Atsuko Nitta
+- Michael Odenkirchen
+- Sadanori Okamura
+- Jeremiah P. Ostriker
+- Russell Owen
+- Nikhil Padmanabhan
+- John Peoples
+- Jeffrey R. Pier
+- Bartosz Pindor
+- Adrian C. Pope
+- Thomas R. Quinn
+- R.~R. Rafikov
+- Sean N. Raymond
+- Gordon T. Richards
+- Michael W. Richmond
+- Hans-Walter Rix
+- Constance M. Rockosi
+- Joop Schaye
+- David J. Schlegel
+- Donald P. Schneider
+- Joshua Schroeder
+- Ryan Scranton
+- Maki Sekiguchi
+- Uroš Seljak
+- Gary Sergey
+- Branimir Sesar
+- Erin Sheldon
+- Kazu Shimasaku
+- Walter A. Siegmund
+- Nicole M. Silvestri
+- Allan J. Sinisgalli
+- Edwin Sirko
+- J. Allyn Smith
+- Smolči\' ́Vernesa
+- Stephanie A. Snedden
+- Albert Stebbins
+- Charles Steinhardt
+- Gregory Stinson
+- Chris Stoughton
+- Iskra V. Strateva
+- Michael A. Strauss
+- Mark SubbaRao
+- Alexander S. Szalay
+- István Szapudi
+- Paula Szkody
+- Lidia Tasca
+- Max Tegmark
+- Aniruddha R. Thakar
+- Christy Tremonti
+- Douglas L. Tucker
+- Alan Uomoto
+- Daniel E. Vanden Berk
+- Jan Vandenberg
+- Michael S. Vogeley
+- Wolfgang Voges
+- Nicole P. Vogt
+- Lucianne M. Walkowicz
+- David H. Weinberg
+- Andrew A. West
+- Simon D.~M. White
+- Brian C. Wilhite
+- Beth Willman
+- Yongzhong Xu
+- Brian Yanny
+- Jean Yarger
+- Naoki Yasuda
+- Ching-Wa Yip
+- D.~R. Yocum
+- Donald G. York
+- Nadia L. Zakamska
+- Idit Zehavi
+- Wei Zheng
+- Stefano Zibetti
+- Daniel B. Zucker
+date: '2003-10-01'
+publishDate: '2025-08-13T13:45:23.309602Z'
+publication_types:
+- article-journal
+publication: '*aj*'
+doi: 10.1086/378165
+tags:
+- Atlases
+- Catalogs
+- Surveys
+- Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/astro-ph/0305492
+---

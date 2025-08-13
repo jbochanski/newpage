@@ -1,0 +1,198 @@
+---
+title: 'The Eighth Data Release of the Sloan Digital Sky Survey: First Data from SDSS-III'
+authors:
+- Hiroaki Aihara
+- Carlos Allende Prieto
+- Deokkeun An
+- Scott F. Anderson
+- Éric Aubourg
+- Eduardo Balbinot
+- Timothy C. Beers
+- Andreas A. Berlind
+- Steven J. Bickerton
+- Dmitry Bizyaev
+- Michael R. Blanton
+- John J. Bochanski
+- Adam S. Bolton
+- Jo Bovy
+- W.~N. Brandt
+- J. Brinkmann
+- Peter J. Brown
+- Joel R. Brownstein
+- Nicolas G. Busca
+- Heather Campbell
+- Michael A. Carr
+- Yanmei Chen
+- Cristina Chiappini
+- Johan Comparat
+- Natalia Connolly
+- Marina Cortes
+- Rupert A.~C. Croft
+- Antonio J. Cuesta
+- Luiz N. da Costa
+- James R.~A. Davenport
+- Kyle Dawson
+- Saurav Dhital
+- Anne Ealet
+- Garrett L. Ebelke
+- Edward M. Edmondson
+- Daniel J. Eisenstein
+- Stephanie Escoffier
+- Massimiliano Esposito
+- Michael L. Evans
+- Xiaohui Fan
+- Bruno Femenı́a Castellá
+- Andreu Font-Ribera
+- Peter M. Frinchaboy
+- Jian Ge
+- Bruce A. Gillespie
+- G. Gilmore
+- Jonay I. González Hernández
+- J. Richard Gott
+- Andrew Gould
+- Eva K. Grebel
+- James E. Gunn
+- Jean-Christophe Hamilton
+- Paul Harding
+- David W. Harris
+- Suzanne L. Hawley
+- Frederick R. Hearty
+- Shirley Ho
+- David W. Hogg
+- Jon A. Holtzman
+- Klaus Honscheid
+- Naohisa Inada
+- Inese I. Ivans
+- Linhua Jiang
+- Jennifer A. Johnson
+- Cathy Jordan
+- Wendell P. Jordan
+- Eyal A. Kazin
+- David Kirkby
+- Mark A. Klaene
+- G.~R. Knapp
+- Jean-Paul Kneib
+- C.~S. Kochanek
+- Lars Koesterke
+- Juna A. Kollmeier
+- Richard G. Kron
+- Hubert Lampeitl
+- Dustin Lang
+- Jean-Marc Le Goff
+- Young Sun Lee
+- Yen-Ting Lin
+- Daniel C. Long
+- Craig P. Loomis
+- Sara Lucatello
+- Britt Lundgren
+- Robert H. Lupton
+- Zhibo Ma
+- Nicholas MacDonald
+- Suvrath Mahadevan
+- Marcio A.~G. Maia
+- Martin Makler
+- Elena Malanushenko
+- Viktor Malanushenko
+- Rachel Mandelbaum
+- Claudia Maraston
+- Daniel Margala
+- Karen L. Masters
+- Cameron K. McBride
+- Peregrine M. McGehee
+- Ian D. McGreer
+- Brice Ménard
+- Jordi Miralda-Escudé
+- Heather L. Morrison
+- F. Mullally
+- Demitri Muna
+- Jeffrey A. Munn
+- Hitoshi Murayama
+- Adam D. Myers
+- Tracy Naugle
+- Angelo Fausti Neto
+- Duy Cuong Nguyen
+- Robert C. Nichol
+- Robert W. O'Connell
+- Ricardo L.~C. Ogando
+- Matthew D. Olmstead
+- Daniel J. Oravetz
+- Nikhil Padmanabhan
+- Nathalie Palanque-Delabrouille
+- Kaike Pan
+- Parul Pandey
+- Isabelle Pâris
+- Will J. Percival
+- Patrick Petitjean
+- Robert Pfaffenberger
+- Janine Pforr
+- Stefanie Phleps
+- Christophe Pichon
+- Matthew M. Pieri
+- Francisco Prada
+- Adrian M. Price-Whelan
+- M. Jordan Raddick
+- Beatriz H.~F. Ramos
+- Céline Reylé
+- James Rich
+- Gordon T. Richards
+- Hans-Walter Rix
+- Annie C. Robin
+- Helio J. Rocha-Pinto
+- Constance M. Rockosi
+- Natalie A. Roe
+- Emmanuel Rollinde
+- Ashley J. Ross
+- Nicholas P. Ross
+- Bruno M. Rossetto
+- Ariel G. Sánchez
+- Conor Sayres
+- David J. Schlegel
+- Katharine J. Schlesinger
+- Sarah J. Schmidt
+- Donald P. Schneider
+- Erin Sheldon
+- Yiping Shu
+- Jennifer Simmerer
+- Audrey E. Simmons
+- Thirupathi Sivarani
+- Stephanie A. Snedden
+- Jennifer S. Sobeck
+- Matthias Steinmetz
+- Michael A. Strauss
+- Alexander S. Szalay
+- Masayuki Tanaka
+- Aniruddha R. Thakar
+- Daniel Thomas
+- Jeremy L. Tinker
+- Benjamin M. Tofflemire
+- Rita Tojeiro
+- Christy A. Tremonti
+- Jan Vandenberg
+- M. Vargas Magaña
+- Licia Verde
+- Nicole P. Vogt
+- David A. Wake
+- Ji Wang
+- Benjamin A. Weaver
+- David H. Weinberg
+- Martin White
+- Simon D.~M. White
+- Brian Yanny
+- Naoki Yasuda
+- Christophe Yeche
+- Idit Zehavi
+date: '2011-04-01'
+publishDate: '2025-08-13T13:45:22.622102Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.1088/0067-0049/193/2/29
+tags:
+- atlases
+- catalogs
+- surveys
+- Astrophysics - Instrumentation and Methods for Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1101.1559
+---

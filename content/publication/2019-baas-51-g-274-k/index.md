@@ -1,0 +1,66 @@
+---
+title: SDSS-V Pioneering Panoptic Spectroscopy
+authors:
+- Juna Kollmeier
+- S.~F. Anderson
+- G.~A. Blanc
+- M.~R. Blanton
+- K.~R. Covey
+- J. Crane
+- N. Drory
+- P.~M. Frinchaboy
+- C.~S. Froning
+- J.~A. Johnson
+- J. -P. Kneib
+- K. Kreckel
+- A. Merloni
+- E.~W. Pellegrini
+- R.~W. Pogge
+- S.~V. Ramirez
+- H.~W. Rix
+- C. Sayres
+- José Sánchez-Gallego
+- Yue Shen
+- A. Tkachenko
+- J.~R. Trump
+- S.~E. Tuttle
+- A. Weijmans
+- G. Zasowski
+- B. Barbuy
+- R.~L. Beaton
+- M. Bergemann
+- J.~J. Bochanski
+- W.~N. Brandt
+- A.~R. Casey
+- B.~A. Cherinka
+- M. Eracleous
+- X. Fan
+- R.~A. Garcı́a
+- P.~J. Green
+- S. Hekker
+- R.~R. Lane
+- P. Longa-Peña
+- S. Mathur
+- A. Meza
+- I. Minchev
+- A.~D. Myers
+- D.~L. Nidever
+- C. Nitschelm
+- J.~E. O'Connell
+- A.~M. Price-Whelan
+- M.~J. Raddick
+- G. Rossi
+- R. Sankrit
+- J.~D. Simon
+- A.~M. Stutz
+- Y. -S. Ting
+- B. Trakhtenbrot
+- B.~A. Weaver
+- C.~N.~A. Willmer
+- D.~H. Weinberg
+date: '2019-09-01'
+publishDate: '2025-08-13T13:45:21.928985Z'
+publication_types:
+- paper-conference
+publication: '*Bulletin of the American Astronomical Society*'
+---

@@ -1,0 +1,181 @@
+---
+title: The Sixth Data Release of the Sloan Digital Sky Survey
+authors:
+- Jennifer K. Adelman-McCarthy
+- Marcel A. Agüeros
+- Sahar S. Allam
+- Carlos Allende Prieto
+- Kurt S.~J. Anderson
+- Scott F. Anderson
+- James Annis
+- Neta A. Bahcall
+- C.~A.~L. Bailer-Jones
+- Ivan K. Baldry
+- J.~C. Barentine
+- Bruce A. Bassett
+- Andrew C. Becker
+- Timothy C. Beers
+- Eric F. Bell
+- Andreas A. Berlind
+- Mariangela Bernardi
+- Michael R. Blanton
+- John J. Bochanski
+- William N. Boroski
+- Jarle Brinchmann
+- J. Brinkmann
+- Robert J. Brunner
+- Tamás Budavári
+- Samuel Carliles
+- Michael A. Carr
+- Francisco J. Castander
+- David Cinabro
+- R.~J. Cool
+- Kevin R. Covey
+- István Csabai
+- Carlos E. Cunha
+- James R.~A. Davenport
+- Ben Dilday
+- Mamoru Doi
+- Daniel J. Eisenstein
+- Michael L. Evans
+- Xiaohui Fan
+- Douglas P. Finkbeiner
+- Scott D. Friedman
+- Joshua A. Frieman
+- Masataka Fukugita
+- Boris T. Gänsicke
+- Evalyn Gates
+- Bruce Gillespie
+- Karl Glazebrook
+- Jim Gray
+- Eva K. Grebel
+- James E. Gunn
+- Vijay K. Gurbani
+- Patrick B. Hall
+- Paul Harding
+- Michael Harvanek
+- Suzanne L. Hawley
+- Jeffrey Hayes
+- Timothy M. Heckman
+- John S. Hendry
+- Robert B. Hindsley
+- Christopher M. Hirata
+- Craig J. Hogan
+- David W. Hogg
+- Joseph B. Hyde
+- Shin-ichi Ichikawa
+- Željko Ivezić
+- Sebastian Jester
+- Jennifer A. Johnson
+- Anders M. Jorgensen
+- ́ Mario Juri\
+- Stephen M. Kent
+- R. Kessler
+- S.~J. Kleinman
+- G.~R. Knapp
+- Richard G. Kron
+- Jurek Krzesinski
+- Nikolay Kuropatkin
+- Donald Q. Lamb
+- Hubert Lampeitl
+- Svetlana Lebedeva
+- Young Sun Lee
+- R. French Leger
+- Sébastien Lépine
+- Marcos Lima
+- Huan Lin
+- Daniel C. Long
+- Craig P. Loomis
+- Jon Loveday
+- Robert H. Lupton
+- Olena Malanushenko
+- Viktor Malanushenko
+- Rachel Mandelbaum
+- Bruce Margon
+- John P. Marriner
+- David Mart\'éz-Delgado
+- Takahiko Matsubara
+- Peregrine M. McGehee
+- Timothy A. McKay
+- Avery Meiksin
+- Heather L. Morrison
+- Jeffrey A. Munn
+- Reiko Nakajima
+- Jr., Eric H. Neilsen
+- Heidi Jo Newberg
+- Robert C. Nichol
+- Tom Nicinski
+- Maria Nieto-Santisteban
+- Atsuko Nitta
+- Sadanori Okamura
+- Russell Owen
+- Hiroaki Oyaizu
+- Nikhil Padmanabhan
+- Kaike Pan
+- Changbom Park
+- Jr., John Peoples
+- Jeffrey R. Pier
+- Adrian C. Pope
+- Norbert Purger
+- M. Jordan Raddick
+- Paola Re Fiorentin
+- Gordon T. Richards
+- Michael W. Richmond
+- Adam G. Riess
+- Hans-Walter Rix
+- Constance M. Rockosi
+- Masao Sako
+- David J. Schlegel
+- Donald P. Schneider
+- Matthias R. Schreiber
+- Axel D. Schwope
+- Uroš Seljak
+- Branimir Sesar
+- Erin Sheldon
+- Kazu Shimasaku
+- Thirupathi Sivarani
+- J. Allyn Smith
+- Stephanie A. Snedden
+- Matthias Steinmetz
+- Michael A. Strauss
+- Mark SubbaRao
+- Yasushi Suto
+- Alexander S. Szalay
+- István Szapudi
+- Paula Szkody
+- Max Tegmark
+- Aniruddha R. Thakar
+- Christy A. Tremonti
+- Douglas L. Tucker
+- Alan Uomoto
+- Daniel E. Vanden Berk
+- Jan Vandenberg
+- S. Vidrih
+- Michael S. Vogeley
+- Wolfgang Voges
+- Nicole P. Vogt
+- Yogesh Wadadekar
+- David H. Weinberg
+- Andrew A. West
+- Simon D.~M. White
+- Brian C. Wilhite
+- Brian Yanny
+- D.~R. Yocum
+- Donald G. York
+- Idit Zehavi
+- Daniel B. Zucker
+date: '2008-04-01'
+publishDate: '2025-08-13T13:45:23.069222Z'
+publication_types:
+- article-journal
+publication: '*apjs*'
+doi: 10.1086/524984
+tags:
+- atlases
+- catalogs
+- surveys
+- Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0707.3413
+---
