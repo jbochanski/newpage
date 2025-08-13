@@ -53,7 +53,7 @@ education:
     institution: University of Washington
     #date_start: 2002
     #date_end: 2008
-    summary: Thesis - M Dwarfs in the Local Milky Way: the Field Low-Mass Stellar Luminosity and Mass Functions. Supervised by [Dr. Suzanne Hawley](https://astro.washington.edu/people/suzanne-hawley). 
+    summary: "Thesis - M Dwarfs in the Local Milky Way: the Field Low-Mass Stellar Luminosity and Mass Functions. Supervised by [Dr. Suzanne Hawley](https://astro.washington.edu/people/suzanne-hawley)." 
     button:
       text: 'Read Thesis'
       url: 'https://lss.fnal.gov/archive/thesis/2000/fermilab-thesis-2006-66.pdf'
