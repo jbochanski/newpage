@@ -139,4 +139,4 @@ I am an Associate Professor of Computer Science & Physics in Rider University‘
 
 I specialize in using large surveys, like SDSS, Gaia, and WISE to study the formation and evolution of the Galaxy. I'm excited about the future of surveys with WFIRST and the Vera Rubin Observatory.
 
-Primarily I use cool, red stars to study two regimes in the Milky Way. When measuring Galactic structure near the Sun, I use cool, red dwarfs, the most common type of star. To study the distant Milky Way halo, I use the much more rare, but much brighter, red giants. Please see my research page for recent papers and ADS for all of my published work.
+Primarily I use cool, red stars to study two regimes in the Milky Way. When measuring Galactic structure near the Sun, I use cool, red dwarfs, the most common type of star. To study the distant Milky Way halo, I use the much more rare, but much brighter, red giants. Please see [ADS for all of my published work]{https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Bochanski%22&sort=date%20desc%2C%20bibcode%20desc}.
